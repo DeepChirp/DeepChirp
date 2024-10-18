@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[![DeepChirp's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepChirp&show_icons=true&theme=transparent)](https://github-readme-stats.vercel.app/api?username=DeepChirp&show_icons=true&theme=transparent&locale=cn "DeepChirp's GitHub stats")[![DeepChirp's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepChirp&layout=compact&theme=transparent)](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepChirp&layout=compact&theme=transparent&locale=cn "DeepChirp's Top Langs")
+[![DeepChirp's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepChirp&show_icons=true&theme=transparent)](https://github-readme-stats.vercel.app/)
+[![DeepChirp's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepChirp&layout=compact&theme=transparent)](https://github-readme-stats.vercel.app/)
 
 <!--
 **DeepChirp/DeepChirp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,3 +1,4 @@
+## Hi there 👋
 - 👋 Hi, I’m @DeepChirp.
 - 🌱 I’m currently learning basic programming skills.
 

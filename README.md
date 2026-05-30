@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m @DeepChirp.
 - 🌱 I’m currently learning basic programming skills.
+- 📦 I’m @archlinux and @archlinuxcn Package Maintainer now.
 
 ## Stats
 
